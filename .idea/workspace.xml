@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6db8fcbb-5a1b-4206-b8c3-a3e406811360" name="Changes" comment="Kod z 9.10">
+    <list default="true" id="6db8fcbb-5a1b-4206-b8c3-a3e406811360" name="Changes" comment="Kod z 16.10">
+      <change afterPath="$PROJECT_DIR$/Account/templates/account/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/templates/registration/logged_out.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/templates/registration/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Account/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Account/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Account/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Account/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bookmarks/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bookmarks/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -55,8 +59,9 @@
     "Django Server.Bookmarks.executor": "Run",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/adamkarczewski/Documents/Adam_Karczewski/4Tp/g1/Bookmarks/Account",
+    "last_opened_file_path": "/Users/adamkarczewski/Documents/Adam_Karczewski/4Tp/g1/Bookmarks",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -118,7 +123,8 @@
       <workItem from="1728301086173" duration="10000" />
       <workItem from="1728454429485" duration="1807000" />
       <workItem from="1728540615256" duration="4000" />
-      <workItem from="1729058991917" duration="1646000" />
+      <workItem from="1729058991917" duration="2071000" />
+      <workItem from="1729503741486" duration="5038000" />
     </task>
     <task id="LOCAL-00001" summary="Kod z 7.10">
       <option name="closed" value="true" />
@@ -136,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728456234413</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Kod z 16.10">
+      <option name="closed" value="true" />
+      <created>1729061055622</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729061055622</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +159,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Kod z 7.10" />
     <MESSAGE value="Kod z 9.10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kod z 9.10" />
+    <MESSAGE value="Kod z 16.10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kod z 16.10" />
   </component>
 </project>
