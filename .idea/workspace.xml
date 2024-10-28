@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6db8fcbb-5a1b-4206-b8c3-a3e406811360" name="Changes" comment="Kod z 21.10">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Account/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Account/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-    </list>
+    <list default="true" id="6db8fcbb-5a1b-4206-b8c3-a3e406811360" name="Changes" comment="Kod z 23.10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,6 +118,7 @@
       <workItem from="1729058991917" duration="2071000" />
       <workItem from="1729503741486" duration="6037000" />
       <workItem from="1729664360365" duration="1450000" />
+      <workItem from="1729753826190" duration="336000" />
     </task>
     <task id="LOCAL-00001" summary="Kod z 7.10">
       <option name="closed" value="true" />
@@ -155,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729509793793</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Kod z 23.10">
+      <option name="closed" value="true" />
+      <created>1729753839160</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729753839160</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +171,7 @@
     <MESSAGE value="Kod z 9.10" />
     <MESSAGE value="Kod z 16.10" />
     <MESSAGE value="Kod z 21.10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kod z 21.10" />
+    <MESSAGE value="Kod z 23.10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kod z 23.10" />
   </component>
 </project>
