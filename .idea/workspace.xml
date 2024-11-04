@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6db8fcbb-5a1b-4206-b8c3-a3e406811360" name="Changes" comment="Kod z 23.10" />
+    <list default="true" id="6db8fcbb-5a1b-4206-b8c3-a3e406811360" name="Changes" comment="Kod z 28.10">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Account/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Account/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Account/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Account/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Account/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Account/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bookmarks/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bookmarks/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bookmarks/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bookmarks/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,8 +106,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
-        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
@@ -119,6 +127,8 @@
       <workItem from="1729503741486" duration="6037000" />
       <workItem from="1729664360365" duration="1450000" />
       <workItem from="1729753826190" duration="336000" />
+      <workItem from="1730112312028" duration="4647000" />
+      <workItem from="1730716984261" duration="4090000" />
     </task>
     <task id="LOCAL-00001" summary="Kod z 7.10">
       <option name="closed" value="true" />
@@ -160,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729753839160</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Kod z 28.10">
+      <option name="closed" value="true" />
+      <created>1730117864059</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730117864059</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +190,7 @@
     <MESSAGE value="Kod z 16.10" />
     <MESSAGE value="Kod z 21.10" />
     <MESSAGE value="Kod z 23.10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kod z 23.10" />
+    <MESSAGE value="Kod z 28.10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kod z 28.10" />
   </component>
 </project>
