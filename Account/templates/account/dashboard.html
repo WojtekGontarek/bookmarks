@@ -4,5 +4,10 @@
 
 {% block content %}
     <h1>Panel główny</h1>
-    <p>Witaj w panelu głównym</p>
+    <p>Witaj w panelu głównym. Mozesz <a href="{% url 'edit' %}">edytowac swoj profil</a></p>
+
+    <p>
+        Przeciagnij poniezszy przycisk aby dodac zakladke do zapisywania zdjec
+        <a href="javascript:{% include "images/bookmarklet_launcher.js" %}" class="button">Bookmarklet</a>
+    </p>
 {% endblock %}

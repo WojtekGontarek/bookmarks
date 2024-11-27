@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6db8fcbb-5a1b-4206-b8c3-a3e406811360" name="Changes" comment="Kod z 04.11">
-      <change afterPath="$PROJECT_DIR$/Account/templates/account/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/templates/images/bookmarklet_launcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/templates/images/image/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Bookmarks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Bookmarks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Account/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Account/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Account/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Account/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Account/static/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/Account/static/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Account/templates/account/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/Account/templates/account/dashboard.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Account/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Account/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bookmarks/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bookmarks/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bookmarks/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bookmarks/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +31,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -40,7 +49,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Technikum-TEB-Edukacja-we-Wroclawiu/4Tp_g1_bookmarks.git&quot;,
-    &quot;accountId&quot;: &quot;bac73fe4-9e50-40fa-b342-56c065744644&quot;
+    &quot;accountId&quot;: &quot;6fd7386d-7124-4c11-b54a-b072720ad955&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -74,6 +83,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Account" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/templates/images/image" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Bookmarks" type="Python.DjangoServer" factoryName="Django server">
@@ -105,8 +117,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
-        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
       </set>
     </attachedChunks>
   </component>
@@ -129,6 +141,10 @@
       <workItem from="1730112312028" duration="4647000" />
       <workItem from="1730716984261" duration="4764000" />
       <workItem from="1730876891494" duration="1642000" />
+      <workItem from="1731926403431" duration="122000" />
+      <workItem from="1731926576457" duration="4586000" />
+      <workItem from="1732531297409" duration="4183000" />
+      <workItem from="1732691304018" duration="1475000" />
     </task>
     <task id="LOCAL-00001" summary="Kod z 7.10">
       <option name="closed" value="true" />
