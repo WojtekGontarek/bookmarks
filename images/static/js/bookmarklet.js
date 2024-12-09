@@ -29,6 +29,11 @@ function bookmarkletLaunch(){
     bookmarklet.getElementById('close').addEventListener('click', function(){
         bookmarklet.style.display = 'none';
     });
+
+    images = document.querySelectorAll('img[src$=".jpg"], img[src$=".jpeg"], img[src$=".png"]');
+    images.forEach(image => {
+        if (image.naturalWidth >= minWidth && image.naturalHeight >= minHeight) {}
+    })
 }
 
 bookmarkletLaunch();
