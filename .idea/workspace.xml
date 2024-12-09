@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6db8fcbb-5a1b-4206-b8c3-a3e406811360" name="Changes" comment="Kod z 04.11sdfdsfsdfa" />
+    <list default="true" id="6db8fcbb-5a1b-4206-b8c3-a3e406811360" name="Changes" comment="Kod z 04.11sdfdsfsdfa">
+      <change beforePath="$PROJECT_DIR$/.idea/Bookmarks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Bookmarks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cert.crt" beforeDir="false" afterPath="$PROJECT_DIR$/cert.crt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cert.key" beforeDir="false" afterPath="$PROJECT_DIR$/cert.key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/static/js/bookmarklet.js" beforeDir="false" afterPath="$PROJECT_DIR$/images/static/js/bookmarklet.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +68,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -130,6 +138,8 @@
       <workItem from="1731926576457" duration="4586000" />
       <workItem from="1732531297409" duration="4183000" />
       <workItem from="1732691304018" duration="2825000" />
+      <workItem from="1733296304865" duration="1978000" />
+      <workItem from="1733382799296" duration="32000" />
     </task>
     <task id="LOCAL-00001" summary="Kod z 7.10">
       <option name="closed" value="true" />
@@ -195,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732693458584</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Kod z 04.11sdfdsfsdfa">
+      <option name="closed" value="true" />
+      <created>1733142256254</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733142256254</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
